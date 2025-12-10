@@ -13,7 +13,7 @@ const App: React.FC = () => {
     isDetected: false 
   });
   const [userPhotos, setUserPhotos] = useState<string[]>([]);
-  const [isWebcamOn, setIsWebcamOn] = useState(true);
+  const [isWebcamOn, setIsWebcamOn] = useState(false)
   
   // Audio State
   const [isMusicOn, setIsMusicOn] = useState(false);
