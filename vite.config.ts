@@ -7,5 +7,5 @@ export default defineConfig({
   // ⚠️ 极其重要：请将下面的 'arix-signature-tree' 换成你 GitHub 仓库的实际名字
   // 如果你的仓库链接是 https://github.com/lucccats/my-project
   // 那这里就写 base: '/my-project/'
-  base: '/-zz/', 
+  base: '/zz/', 
 })
